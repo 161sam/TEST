@@ -1,3 +1,5 @@
+https://miro.com/app/board/uXjVLhuWVyk=/
+
 # Smolitux UI Bibliothek
 
 Eine moderne React-Komponentenbibliothek für die einheitliche Gestaltung von MVPs.
